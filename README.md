@@ -6,13 +6,13 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This repository contains the complete implementation for **CS 240 Assignment 1**. The project explores fundamental data representation across Java and Python, covering character array parsing, base conversions (binary and hexadecimal), explicit boundary value testing, and custom two-way bitmap image encoding and reconstruction.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 CS240-Assignment-1/
